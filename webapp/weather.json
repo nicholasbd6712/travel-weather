@@ -1,4 +1,21 @@
 {
+  "Indonesia": {
+    "Jakarta": {
+      "January": {"high": 88, "low": 75},
+      "February": {"high": 88, "low": 75},
+      "March": {"high": 88, "low": 76},
+      "April": {"high": 88, "low": 76},
+      "May": {"high": 88, "low": 76},
+      "June": {"high": 87, "low": 75},
+      "July": {"high": 87, "low": 74},
+      "August": {"high": 88, "low": 74},
+      "September": {"high": 88, "low": 75},
+      "October": {"high": 89, "low": 76},
+      "November": {"high": 89, "low": 76},
+      "December": {"high": 88, "low": 75}
+    }
+  },
+    
   "England": {
     "London": {
       "January": {"high": 45, "low": 36},
